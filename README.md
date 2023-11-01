@@ -1,2 +1,2 @@
 # Practice
-learning web development
+learning and practising web development 
